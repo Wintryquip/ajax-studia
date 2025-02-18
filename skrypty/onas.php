@@ -1,0 +1,13 @@
+<?php
+$tytul = "Galeria";
+echo "<h1> O nas </h1>";
+$zawartosc = "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque viverra, dui posuere ultrices feugiat, metus nisi congue risus, nec fermentum elit massa vel massa. Cras at mollis justo. Maecenas et tellus scelerisque, malesuada nulla nec, pharetra magna. Nullam fringilla non risus vitae volutpat. Nunc nulla sapien, iaculis ac ante in, condimentum imperdiet sem. Proin vel feugiat ipsum. Aliquam erat volutpat. Nulla facilisi. Etiam id nisl accumsan velit laoreet aliquet vitae sed quam.
+
+Nam consectetur risus sed urna maximus placerat. Nulla hendrerit ultricies ante, vel tincidunt augue bibendum vitae. Vestibulum tristique scelerisque mi eu dictum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum facilisis eleifend efficitur. Nulla vel erat a ante elementum bibendum vel id justo. In eget placerat sem. Suspendisse convallis nisl id nisl convallis placerat. Vivamus at nibh fringilla, lobortis eros ac, varius nisi. Phasellus aliquet dapibus vestibulum. Nulla non leo finibus, porta nisl a, placerat nisl. Mauris suscipit tortor vitae elit maximus, at sodales mauris gravida. Sed at leo egestas sapien mollis dignissim.
+
+Nullam cursus eu leo eget dignissim. Aliquam feugiat diam vehicula metus imperdiet congue. Phasellus convallis turpis odio, eu consequat quam tincidunt vel. Pellentesque vitae massa non augue fringilla elementum. Pellentesque dictum nulla felis, id facilisis libero rhoncus vel. Praesent in mattis felis. Cras quis blandit tellus. Ut elementum mollis neque, et consequat arcu interdum non. In sollicitudin metus lorem, at suscipit enim cursus non.
+
+Praesent eu sagittis neque, et lacinia augue. Praesent cursus ante ante, at cursus elit ornare a. Vestibulum euismod varius fringilla. Vestibulum quis vehicula elit. Aenean eget rutrum magna. Suspendisse eros lectus, venenatis eu nulla et, lobortis cursus lectus. Praesent at condimentum augue.
+
+Nam bibendum blandit ullamcorper. Cras non nisi ut dolor lacinia egestas. Cras blandit nec nisi at efficitur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis convallis ultrices tristique. Vivamus mattis dui sed sem consectetur, in semper diam dignissim. Mauris quis volutpat tellus. Curabitur at nunc feugiat, blandit nisi vitae, imperdiet augue. Donec semper lobortis ultricies. Suspendisse et mauris sit amet justo accumsan faucibus ac sed orci. Curabitur tincidunt, massa non placerat gravida, enim velit vulputate sapien, at tempus lectus ex eget quam. Vestibulum suscipit faucibus vulputate. </p>";
+echo $zawartosc;
